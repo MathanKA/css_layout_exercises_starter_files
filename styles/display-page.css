@@ -1,0 +1,51 @@
+
+
+.main-box {
+    margin: 0 auto;
+    margin-top: 7%;
+  width: 800px;
+}
+
+.center-box {
+    text-align: center;
+}
+.box {
+      border: 1px solid black;
+    display: block;
+    float: left;
+}
+
+.half {
+    width: 50%;
+    height: 200px;
+}
+
+.green {
+
+    background-color: green;
+
+}
+
+.blue {
+
+    background-color: blue;
+}
+
+.third {
+    width: 33.33%;
+    height: 300px;
+}
+.grey {
+    background-color: grey;
+
+}
+
+.black {
+    background-color: black;
+
+}
+
+.orange {
+    background-color: orange;
+
+}
